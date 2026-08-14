@@ -3,13 +3,13 @@
     <channel>
         <title>OutlookAgent</title>
         <item>
-            <title>3.2</title>
-            <pubDate>Thu, 13 Aug 2026 15:23:40 -0500</pubDate>
-            <sparkle:version>32</sparkle:version>
-            <sparkle:shortVersionString>3.2</sparkle:shortVersionString>
+            <title>3.3</title>
+            <pubDate>Fri, 14 Aug 2026 10:55:13 -0500</pubDate>
+            <sparkle:version>33</sparkle:version>
+            <sparkle:shortVersionString>3.3</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
             <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
-            <enclosure url="https://jgassens.github.io/OutlookAgent/assets/OutlookAgent-3.2-32.zip" length="6500155" type="application/octet-stream" sparkle:edSignature="c2lcxFjjRPQ10ck6JnG7G2+yOqQUTpqpMA8WZL+2N2Mq8kLkbAWrIb0heSVqk/4XWKtPdbE3M4oOcRDYmRD2CQ=="/>
+            <enclosure url="https://jgassens.github.io/OutlookAgent/assets/OutlookAgent-3.3-33.zip" length="6501336" type="application/octet-stream" sparkle:edSignature="V4P96HFaNeDZ3z9YrzMcxnfJ+mIQwrFdPDCCfM+PD/oCfEnfk71SF3q94ez99wtOHLKlYBHEY3kivhNZtqy1Dw=="/>
         </item>
     </channel>
 </rss>
